@@ -97,8 +97,6 @@ If you want to train or fine-tune the model:
 
 ---
 
----
-
-## 🤝 Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or feature additions.
 

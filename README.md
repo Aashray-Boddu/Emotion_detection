@@ -106,8 +106,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or feature additions.
 
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or feature additions.
-
----
-
-Let me know if you'd like to include badges (like TensorFlow version, license, stars, etc.) or host this as a web app using Streamlit or Flask.

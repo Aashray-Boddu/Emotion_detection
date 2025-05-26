@@ -93,7 +93,7 @@ If you want to train or fine-tune the model:
 
 ## GUI Demo
 
-![GUI Screenshot](screenshots/demo_gui.png) <!-- Replace this with your actual image path -->
+![GUI Screenshot](demo_gui.png) <!-- Replace this with your actual image path -->
 
 ---
 
